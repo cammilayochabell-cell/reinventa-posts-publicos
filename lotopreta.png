@@ -1,0 +1,8 @@
+<svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="400" fill="#0E0E16"/>
+  <text x="200" y="248" font-family="Georgia, 'Times New Roman', serif" font-size="160" font-weight="700" fill="#FFFFFF" text-anchor="middle" letter-spacing="-4">R</text>
+  <text x="272" y="248" font-family="Georgia, 'Times New Roman', serif" font-size="160" font-weight="700" fill="#FF4D6D" text-anchor="middle">.</text>
+  <text x="200" y="298" font-family="'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="300" fill="#8888AA" text-anchor="middle" letter-spacing="6">REINVENTA</text>
+  <rect x="0" y="0" width="400" height="3" fill="#FF4D6D"/>
+  <rect x="0" y="397" width="400" height="3" fill="#00C9B1"/>
+</svg>
